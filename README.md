@@ -1,4 +1,12 @@
-# 0.0.0
+# Version
+
+## 0.0.1
+
+`27-07-2025`
+
+- Fix sphinx-build dir with `conf.py` file.
+
+## 0.0.0
 
 `27-07-2025`
 
